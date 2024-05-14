@@ -42,6 +42,7 @@
                 <version>${frontend-maven-plugin-version}</version>
                 <configuration>
                     <workingDirectory>${plugin.path}</workingDirectory>
+                    <installDirectory>/tmp/tools</installDirectory>
                 </configuration>
                 <executions>
                     <execution>
