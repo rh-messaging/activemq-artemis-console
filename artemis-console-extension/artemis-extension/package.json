@@ -1,6 +1,6 @@
 {
   "name": "artemis-console",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Artemis Console",
   "main": "./src/main/webapp/app/artemis-console.js",
   "license": "Apache-2.0",
